@@ -1,0 +1,3 @@
+solidpython==0.4.8
+jupyter==1.0.0
+viewscad==0.2.0
